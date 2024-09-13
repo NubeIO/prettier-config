@@ -1,6 +1,0 @@
-
-> @nubeio/prettier-config@0.1.0 format /Users/riteshakya/Projects/nubeIO/flex/tooling/prettier
-> prettier --check . --ignore-path ../../.gitignore "--cache" "--cache-location" "node_modules/.cache/.prettiercache"
-
-Checking formatting...
-index.js[2K[1Gpackage.json[2K[1GAll matched files use Prettier code style!
