@@ -1,5 +1,5 @@
 {
-  "name": "@pjnube/prettier-config",
+  "name": "@nubeio/prettier-config",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -15,8 +15,8 @@
     "prettier-plugin-tailwindcss": "^0.6.2"
   },
   "devDependencies": {
-    "@pjnube/tsconfig": "workspace:*",
+    "@nubeio/tsconfig": "workspace:*",
     "typescript": "catalog:"
   },
-  "prettier": "@pjnube/prettier-config"
+  "prettier": "@nubeio/prettier-config"
 }
