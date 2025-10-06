@@ -11,12 +11,7 @@
     "format": "prettier --check . --ignore-path ../../.gitignore"
   },
   "dependencies": {
-    "prettier": "catalog:",
-    "prettier-plugin-tailwindcss": "^0.6.2"
-  },
-  "devDependencies": {
-    "@nubeio/tsconfig": "workspace:*",
-    "typescript": "catalog:"
+    "prettier": "^3.5.3"
   },
   "prettier": "@nubeio/prettier-config"
 }
